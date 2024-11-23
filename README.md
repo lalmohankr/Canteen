@@ -1,2 +1,8 @@
-# Canteen
-This project is a terminal-based application designed to handle basic canteen operations. It displays a menu with items and prices, allows users to add or remove items from their cart, view the total amount, and complete the order. The system provides real-time updates to the cart and ensures a seamless ordering experience.
+# Canteen Management System 🍴
+A Python-based interactive program to simulate a canteen order management system. Customers can view the menu, add items to their cart, remove items, and check the total amount before finalizing their order.
+
+#Features
+1. Dynamic Menu Display: Shows the menu with items and their respective prices.
+2. Cart Management: Add and remove items from the cart at any time.
+3. Order Summary: View the current cart with item details and total cost.
+4. Interactive Commands: Simple text-based commands (Add, Remove, Cart, Exit) for ease of use.
